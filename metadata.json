@@ -1,0 +1,6 @@
+{
+  "name": "Aadhar Clinic OS",
+  "description": "Minimalist clinic management OS with OPD consultations, IPD admissions, inventory tracking, billing, follow-ups, and reports. Developed & Designed by Dr. Sanket Shivajirao Ghule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
